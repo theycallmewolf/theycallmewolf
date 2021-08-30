@@ -23,7 +23,7 @@ they say ‘I solve problems’.<br />
 Who are they?<br />
 You are starting to ask too much…
 
-**:wave: Hi there! I’m a junior frontend developer + senior designer.**
+**:wave: Hi there! I’m a frontend developer + senior designer.**
 
 <br /><br />
 
