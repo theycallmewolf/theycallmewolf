@@ -27,7 +27,7 @@ You are starting to ask too much…
 
 <br /><br />
 
-[![theycallmewolf GitHub stats](https://github-readme-stats.vercel.app/api?username=theycallmewolf&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/theycallmewolf/github-readme-stats)
+[![theycallmewolf GitHub stats](https://github-readme-stats.vercel.app/api?username=theycallmewolf&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/theycallmewolf/)
 
 
 ### :computer: Stack 
