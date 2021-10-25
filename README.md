@@ -81,3 +81,9 @@ bruno@theycallmewolf.com
 <br/><br/>
   
 # :wolf: :metal:
+
+<!-- 
+  sources:
+  https://shields.io/
+  https://github.com/anuraghazra/github-readme-stats
+-->
