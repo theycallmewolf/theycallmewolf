@@ -80,9 +80,9 @@ since={"2020-10-25"}
 <br />
 
 `` learning() ``
-* JavaScript
-* React
-* NextJS
+* [React Native](https://reactnative.dev/)
+* [Expo](https://expo.dev/)
+* [NextJS 13](https://nextjs.org/)
 
 
 
