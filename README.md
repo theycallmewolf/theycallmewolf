@@ -52,11 +52,11 @@ You are starting to ask too much…
 - [x] NextJs
 - [x] Typescript
 - [x] Sass
+- [x] Styled Components
 - [x] NodeJs
 - [x] Php
-- [x] yarn and npm
+
 - [x] Figma
-- [x] Xd
 - [x] Illustrator
 - [x] Photoshop
 
