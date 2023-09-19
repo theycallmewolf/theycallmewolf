@@ -48,17 +48,18 @@ You are starting to ask too much…
 
 `` < Stack /> ``
 
-- [x] ReactJs
-- [x] NextJs
-- [x] Typescript
-- [x] Sass
-- [x] Styled Components
-- [x] NodeJs
-- [x] Php
+- [x] [ReactJs](https://react.dev)
+- [x] [NextJs](https://nextjs.org/)
+- [x] [TypeScript](https://www.typescriptlang.org/)
+- [x] [Sass](https://sass-lang.com/)
+- [x] [TailwindCSS](https://tailwindcss.com/)
+- [x] [Styled Components](https://styled-components.com/)
+- [x] [NodeJs](https://nodejs.org/en)
+- [x] [php](https://www.php.net/)
 
-- [x] Figma
-- [x] Illustrator
-- [x] Photoshop
+- [x] [Figma](https://www.figma.com/)
+- [x] [Illustrator](https://www.adobe.com/pt/products/illustrator.html)
+- [x] [Photoshop](https://www.adobe.com/products/photoshop.html)
 
 <br />
 
@@ -74,7 +75,7 @@ You are starting to ask too much…
 
 [![wakatime](https://wakatime.com/badge/user/c8c96d07-da48-4af5-a925-8e4e7c75e170.svg?style=for-the-badge)](https://wakatime.com/@c8c96d07-da48-4af5-a925-8e4e7c75e170)
 <br />
-since={"2020-10-25"}
+`since={"2020-10-25"}`
 
 
 <br />
