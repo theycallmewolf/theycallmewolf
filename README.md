@@ -67,9 +67,9 @@ You are starting to ask too much…
 
 
 
-`` < Stats /> ``
+<!--`` < Stats /> ``-->
 
-[![theycallmewolf GitHub stats](https://github-readme-stats.vercel.app/api?username=theycallmewolf&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/theycallmewolf/)
+<!-- [![theycallmewolf GitHub stats](https://github-readme-stats.vercel.app/api?username=theycallmewolf&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/theycallmewolf/) -->
 
 <br />
 
@@ -81,9 +81,9 @@ You are starting to ask too much…
 <br />
 
 `` learning() ``
+* [Angular](https://angular.io/)
 * [React Native](https://reactnative.dev/)
-* [Expo](https://expo.dev/)
-* [NextJS 13](https://nextjs.org/)
+
 
 
 
@@ -91,8 +91,8 @@ You are starting to ask too much…
 <br />
 
 `` const currentWork = ``
-* teaming with the great guys from [Wildstyle](https://www.wildstyle-network.com/)
-* available for freelance projects
+* "Changing the way the world moves" as a Rockstar Developer with an epic team at [Critical TechWorks](https://www.criticaltechworks.com/)
+* <s>available for freelance projects</s>
 
 
 
